@@ -42,6 +42,9 @@ manifest.routes.push(
 );
 
 // Write deploy-manifest.json
-const manifestPath = path.join(buildDir, 'deploy-manifest.json');
-fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2));
-console.log(`deploy-manifest.json created successfully at ${manifestPath}`);
+//const manifestPath = path.join(buildDir, 'deploy-manifest.json');
+///fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2));
+fs.rename('./build/asset-manifest.json', './build/deploy-manifest.json', function(err) {
+    if ( err ) console.log('ERROR: ' + err);
+});
+//console.log(`deploy-manifest.json created successfully at ${manifestPath}`);
