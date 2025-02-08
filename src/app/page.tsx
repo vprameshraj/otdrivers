@@ -61,7 +61,7 @@ export default function Home() {
             {/* <br /><br /> */}
 
             <p className={`${styles.center_text_description} text-xl lg:text-lg md:text-base xs:text-sm xxs:text-xs`}>
-               OT Drivers is a professional driver service company offering on-demand drivers for temporary journeys. Whether it's for business or personal travel, OT Drivers provides experienced, licensed, and reliable drivers ready to transport clients wherever needed. With a focus on flexibility and customer satisfaction, OT Drivers caters to short-term or one-time driving needs, ensuring a smooth and comfortable ride. From airport transfers and event transportation to casual outings, clients can book drivers for any occasion, all with a focus on safety, punctuality, and top-tier service.
+               OT Drivers is a professional driver service company offering on-demand drivers for temporary journeys. Whether it&apos;s for business or personal travel, OT Drivers provides experienced, licensed, and reliable drivers ready to transport clients wherever needed. With a focus on flexibility and customer satisfaction, OT Drivers caters to short-term or one-time driving needs, ensuring a smooth and comfortable ride. From airport transfers and event transportation to casual outings, clients can book drivers for any occasion, all with a focus on safety, punctuality, and top-tier service.
             </p>
 
             <br /><br />
