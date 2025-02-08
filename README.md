@@ -1,20 +1,20 @@
-# RoRe Constructions Website 
+# OT Drivers Website 
 
-**Welcome to RoRe Constructions – Building Dreams, Crafting Excellence!**  
+**Welcome to OT Drivers – Building Dreams, Crafting Excellence!**  
 
-Established in 2021, **RoRe Constructions** is a trusted name in the construction industry, delivering exceptional residential, commercial, and industrial projects across Tamil Nadu. With our headquarters in **Coimbatore** and a branch in **Chennai**, we bring innovation, quality, and reliability to every project we undertake.  
+Established in 2021, **OT Drivers** is a trusted name in the construction industry, delivering exceptional residential, commercial, and industrial projects across Tamil Nadu. With our headquarters in **Coimbatore** and a branch in **Chennai**, we bring innovation, quality, and reliability to every project we undertake.  
 
 Our company is founded on a strong legacy of expertise:  
 
-🔹 **Sathiamoorthy** – Retired Chief Manager of New Neyveli Thermal Power Station and Chief Civil Engineer of **RoRe Constructions**, bringing decades of engineering excellence.  
+🔹 **Sathiamoorthy** – Retired Chief Manager of New Neyveli Thermal Power Station and Chief Civil Engineer of **OT Drivers**, bringing decades of engineering excellence.  
 🔹 **Iruthayaraja** – A visionary leader and Head of **Vanigar Association, Coimbatore**, with over **two decades of experience in real estate development.**  
 
-At **RoRe Constructions**, we specialize in:  
+At **OT Drivers**, we specialize in:  
 🏡 **Residential Projects** – Villas, Apartments & Luxury Homes  
 🏢 **Commercial Spaces** – Office Buildings, Showrooms & Retail Outlets  
 🏭 **Industrial Infrastructure** – Warehouses, Factories & Specialized Structures  
 
-We take pride in our **uncompromising quality, timely project delivery, and customer-centric approach**. Whether you are looking to build your dream home or a commercial masterpiece, **RoRe Constructions** is your trusted partner in turning visions into reality.  
+We take pride in our **uncompromising quality, timely project delivery, and customer-centric approach**. Whether you are looking to build your dream home or a commercial masterpiece, **OT Drivers** is your trusted partner in turning visions into reality.  
 
 📍 Serving all over Tamil Nadu with commitment and excellence!  
 
@@ -40,7 +40,7 @@ This fully responsive website is built using **HTML**, **JavaScript** and **CSS*
 
 A sitemap is made in XML (Extensible Markup Language) and is primarily used as a way for AI to index your site easier. Search engines like Google use XML sitemaps to store your site’s pages more efficiently, producing better results when people search for related terms.
 
-**RoRe ConstructionsSitemap URL:** https://rore.com/sitemap.xml
+**OT DriversSitemap URL:** https://rore.com/sitemap.xml
 
 **Posted Sitemap on Google Search Console:**XXXW+6J Ramanathapuram, Tamil Nadu
 

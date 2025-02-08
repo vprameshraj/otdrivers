@@ -30,7 +30,7 @@ const Footer = () => {
 
                         <div className={`${styles.footer_logo}`}>
                             <Link href='/'>
-                                <Image src={Logo} alt='RoRe Constructions Logo' width='140' height='75' className='cursor-pointer' priority />
+                                <Image src={Logo} alt='OT Drivers Logo' width='140' height='75' className='cursor-pointer' priority />
                             </Link>
                         </div>
 
@@ -103,7 +103,7 @@ const Footer = () => {
                 <div className='flex justify-between items-center w-full sm:flex-col-reverse sm:items-start sm:pt-1'>
                     <div className='text-customGray text-sm xs:whitespace-nowrap xxs:whitespace-normal xs:text-xs'>
                         <span className=''>
-                            RoRe Constructions &copy; {new Date().getFullYear()} | ALL RIGHTS RESERVED
+                            OT Drivers &copy; {new Date().getFullYear()} | ALL RIGHTS RESERVED
                         </span>
                     </div>
 

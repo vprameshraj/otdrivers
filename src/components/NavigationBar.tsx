@@ -48,7 +48,7 @@ const NavigationBar = () => {
 
             <div className='flex justify-between items-center w-full h-full pl-16 pr-24 max-w-[3840px] mx-auto sm:pl-2 sm:pr-14'>
                 <Link href='/'>
-                    <Image src={Logo} alt='RoRe Constructions Logo' width='100' height='60' className='cursor-pointer' priority />
+                    <Image src={Logo} alt='OT Drivers Logo' width='100' height='60' className='cursor-pointer' priority />
                 </Link>
 
                 {/* Responsive Mobile Nav Bar Icon */}

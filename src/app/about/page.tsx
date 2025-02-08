@@ -46,19 +46,19 @@ const About = () => {
             {/* Left Container */}
             <div className={`xl:ml-16 xl:break-words ${styles.about_page_text}`}>
 
-              <h1 className={`uppercase text-4xl lg:text-3xl md:text-2xl xs:text-xl xxs:text-lg text-matteblack text-left ${mondaFont.className}`}>About Rore Constructions</h1>
+              <h1 className={`uppercase text-4xl lg:text-3xl md:text-2xl xs:text-xl xxs:text-lg text-matteblack text-left ${mondaFont.className}`}>About OT Drivers</h1>
 
               <br />
 
               <p className={`text-xl text-left leading-[1.5em] lg:text-lg md:text-base xs:text-sm xxs:text-xs ${styles.about_text_description}`}>
-                RoRe Constructions is a full-service general contractor licensed in the state of Coimbatore since 2023 that
+                OT Drivers is a full-service general contractor licensed in the state of Coimbatore since 2023 that
                 builds quality residential homes that add value to the communities we serve. We bring a passion for innovation
                 and a commitment to quality to every job we do. Our company has an unwavering dedication to personal and
                 professional integrity and has become a premier general contractor by delivering outstanding quality and value
                 to all our clients.
 
                 <br /><br />
-                RoRe Constructions is carrying the values, ideals, traditions, and ethics of years of experience in all aspects
+                OT Drivers is carrying the values, ideals, traditions, and ethics of years of experience in all aspects
                 of residential construction. Our unwavering loyalty and dedication to our employees, our clients, and our craft
                 has been integral in cultivating our statewide client base. We appreciate the dedication and loyalty shown to us
                 by our employees and clients and look towards the future to perfect our brand.

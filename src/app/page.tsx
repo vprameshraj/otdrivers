@@ -69,7 +69,7 @@ export default function Home() {
             <p className={`${styles.center_text_description} text-xl lg:text-lg md:text-base xs:text-sm xxs:text-xs`}>
                 <b>Qualified Drivers:</b> All drivers are carefully selected, trained, and licensed to ensure top-level service and safety.<br /><br />
                 <b>Flexible Booking:</b> Easy-to-use booking system allowing clients to schedule drivers at their convenience, even on short notice.<br /><br />
-                <b>Comfort & Reliability:</b> Well-maintained vehicles and experienced drivers ensure a smooth, stress-free travel experience.<br /><br />
+                <b>Comfort &amp; Reliability:</b> Well-maintained vehicles and experienced drivers ensure a smooth, stress-free travel experience.<br /><br />
                 <b>Affordable Rates:</b> Competitive pricing with no hidden fees, offering cost-effective solutions for temporary transportation needs.<br /><br />
                 <b>24/7 Availability:</b> Services available around the clock to meet diverse client schedules, whether for daytime errands or late-night travel.<br /><br />
                 <b>Diverse Vehicle Options:</b> From luxury sedans to larger vehicles for group travel, OT Drivers offers a variety of options to suit different preferences.
