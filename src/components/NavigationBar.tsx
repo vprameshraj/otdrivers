@@ -4,7 +4,7 @@ import React, { useState, useEffect } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 
-import Logo from '../../public/images/rore.png'
+import Logo from '../../public/images/otdrivers.jpg'
 import { motion } from 'framer-motion';
 import { FacebookIcon, LinkedInIcon } from './SocialMediaIcons';
 import NavbarCustomLink from './NavbarCustomLink';

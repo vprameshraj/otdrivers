@@ -35,33 +35,17 @@ export default function Home() {
 
         {/* HOME Image Section */}
         <section>
+        <div>
+
+          <h1 style={{ color: 'black' }} className={`text-ivory text-center text-[5rem] lg:text-6xl md:text-5xl sm:text-4xl xs:text-3xl xxxs:text-2xl ${robotoFont.className}`}>OT Drivers</h1>
+
+          <br />
+
+          </div>
+
 
           <div className={styles.homeBackgroundImage}>
             {/* <Image src={HomeBackgroundImage} alt="Home Background Image" /> */}
-
-            <div>
-
-              <h1 style={{ color: 'orange' }} className={`text-ivory text-center text-[5rem] lg:text-6xl md:text-5xl sm:text-4xl xs:text-3xl xxxs:text-2xl ${robotoFont.className}`}>OT Drivers</h1>
-
-              <br />
-
-              <h2 className={`!font-thin text-white    text-center text-4xl lg:text-3xl md:text-2xl sm:text-xl xs:text-lg xxxs:text-base ${robotoFontThin.className}`}>Serving TAMILNADU Since 2021</h2>
-
-              <br /><br />
-
-              <div className='flex flex-row justify-center items-center'>
-                <Link href='/services' target='_self'>
-                  <input type='button' value='Our Services' className='w-[180px] h-[50px] border-solid border-ivory border-2 outline-none text-ivory text-xl cursor-pointer uppercase mx-5 transition-all duration-500 ease-in-out hover:bg-black-opacity-50 lg:text-lg lg:w-[160px] md:text-base md:w-[140px] md:h-[45px] sm:text-sm sm:w-[130px] sm:h-[40px] xs:text-xs xs:w-[110px] xxxs:h-[35px]' />
-                </Link>
-
-                <Link href='/contact' target='_self'>
-                  <input type='button' value='Free Estimate' className='w-[180px] h-[50px] border-solid border-ivory border-2 outline-none text-ivory text-xl cursor-pointer uppercase mx-5 transition-all duration-500 ease-in-out hover:bg-black-opacity-50 lg:text-lg lg:w-[160px] md:text-base md:w-[140px] md:h-[45px] sm:text-sm sm:w-[130px] sm:h-[40px] xs:text-xs xs:w-[110px] xxxs:h-[35px]' />
-                </Link>
-              </div>
-
-
-            </div>
-
           </div>
 
         </section>
@@ -77,28 +61,19 @@ export default function Home() {
             {/* <br /><br /> */}
 
             <p className={`${styles.center_text_description} text-xl lg:text-lg md:text-base xs:text-sm xxs:text-xs`}>
-              Welcome to RoRe Constructions – Building Dreams, Crafting Excellence! <br /><br />
-              Established in 2021, <em>RoRe Constructions</em> is a trusted name in the construction industry, delivering exceptional residential, commercial, and industrial projects across Tamil Nadu. With our headquarters in <em>Coimbatore</em> and branches in <em>Chennai</em> and <em>Tuticorin</em>, we bring innovation, quality, and reliability to every project we undertake.<br /><br />
-
-              Our company is founded on a strong legacy of expertise: <br /><br />
-              🔹 <em>Sathiamoorthy</em> – Retired Chief Manager of New Neyveli Thermal Power Station and Chief Civil Engineer of &quot;RoRe Constructions&quot;, bringing four decades of engineering excellence.<br /><br />
-              🔹 <em>Iruthayaraja</em> – A visionary leader and Head of <em>Vanigar Association, Coimbatore</em>, with over <em>three decades of experience in real estate development.</em><br /><br />
-
-              At <em>RoRe Constructions</em>, we specialize in:<br /><br />
-              🏡 <em>Residential Projects</em> – Villas, Apartments &amp; Luxury Homes<br />
-              🏢 <em>Commercial Spaces</em> – Office Buildings, Showrooms &amp; Retail Outlets<br />
-              🏭 <em>Industrial Infrastructure</em> – Warehouses, Factories &amp; Specialized Structures<br /><br />
-
-              We take pride in our <em>uncompromising quality, timely project delivery, and customer-centric approach.</em> Whether you are looking to build your dream home or a commercial masterpiece, <em>RoRe Constructions</em> is your trusted partner in turning visions into reality.<br /><br />
-
-              📍 Serving all over Tamil Nadu with commitment and excellence! and expanding our reach to serve across all of India.<br /><br />
-
-              📞 Contact us today to build with confidence!
-              {/* <Link href='/services' className='pb-[0.4rem] inline border-solid border-black border-b-[2px] hover:text-customOrange hover:border-customOrange'>Learn More</Link> */}
+               OT Drivers is a professional driver service company offering on-demand drivers for temporary journeys. Whether it's for business or personal travel, OT Drivers provides experienced, licensed, and reliable drivers ready to transport clients wherever needed. With a focus on flexibility and customer satisfaction, OT Drivers caters to short-term or one-time driving needs, ensuring a smooth and comfortable ride. From airport transfers and event transportation to casual outings, clients can book drivers for any occasion, all with a focus on safety, punctuality, and top-tier service.
             </p>
 
             <br /><br />
 
+            <p className={`${styles.center_text_description} text-xl lg:text-lg md:text-base xs:text-sm xxs:text-xs`}>
+                <b>Qualified Drivers:</b> All drivers are carefully selected, trained, and licensed to ensure top-level service and safety.<br /><br />
+                <b>Flexible Booking:</b> Easy-to-use booking system allowing clients to schedule drivers at their convenience, even on short notice.<br /><br />
+                <b>Comfort & Reliability:</b> Well-maintained vehicles and experienced drivers ensure a smooth, stress-free travel experience.<br /><br />
+                <b>Affordable Rates:</b> Competitive pricing with no hidden fees, offering cost-effective solutions for temporary transportation needs.<br /><br />
+                <b>24/7 Availability:</b> Services available around the clock to meet diverse client schedules, whether for daytime errands or late-night travel.<br /><br />
+                <b>Diverse Vehicle Options:</b> From luxury sedans to larger vehicles for group travel, OT Drivers offers a variety of options to suit different preferences.
+            </p>
             <Link href='/contact' target='_self'>
               <input type='button' value='Contact Us Today' className={`w-[300px] h-[50px] border-none outline-4 outline-none outline-black bg-black text-ivory cursor-pointer relative z-0 rounded-xl text-2xl uppercase transition-all duration-500 ease-in-out hover:bg-ivory hover:text-black hover:outline-matteblack md:text-xl md:w-[250px] md:h-[50px] sm:text-lg sm:w-[220px] sm:h-[40px] xs:text-base xs:w-[200px] xxs:text-sm xxs:w-[170px] xxs:h-[35px] ${righteousFont.className}`} />
             </Link>

@@ -62,7 +62,7 @@ const Contact = () => {
 
              {/* Back Side */}
              <div className={`bg-customWhite ${styles.contact_get_in_touch_card_back_side}`}>
-              <Link href='mailto:roreconstructions@gmail.com' className={`text-lg transition-all duration-500 ease-out hover:text-customBlue lg:text-sm md:text-lg sm:text-base xxxs:text-sm ${mondaFont.className}`}>roreconstructions@gmail.com</Link>
+              <Link href='mailto:otdrivers23450@gmail.com' className={`text-lg transition-all duration-500 ease-out hover:text-customBlue lg:text-sm md:text-lg sm:text-base xxxs:text-sm ${mondaFont.className}`}>otdrivers23450@gmail.com</Link>
              </div>
 
           </div>
@@ -83,7 +83,7 @@ const Contact = () => {
 
              {/* Back Side */}
              <div className={`bg-customWhite ${styles.contact_get_in_touch_card_back_side}`}>
-              <Link href='tel:8098 488884' className={`text-lg transition-all duration-500 ease-out hover:text-customBlue lg:text-base md:text-lg sm:text-base xxxs:text-sm ${mondaFont.className}`}>8098 488884</Link>
+              <Link href='tel:81110 23450' className={`text-lg transition-all duration-500 ease-out hover:text-customBlue lg:text-base md:text-lg sm:text-base xxxs:text-sm ${mondaFont.className}`}>81110 23450</Link>
              </div>
 
           </div>
@@ -104,7 +104,7 @@ const Contact = () => {
 
              {/* Back Side */}
              <div className={`bg-customWhite ${styles.contact_get_in_touch_card_back_side}`}>
-              <address className={`text-lg lg:text-base md:text-lg sm:text-base xxxs:text-sm ${mondaFont.className}`}>Tamil Nadu</address>
+              <address className={`text-lg lg:text-base md:text-lg sm:text-base xxxs:text-sm ${mondaFont.className}`}>918 - D, RG Street, Coimbatore - 641 001</address>
              </div>
 
           </div>

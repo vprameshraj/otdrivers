@@ -41,7 +41,7 @@ const Footer = () => {
                                     <h3 className='text-lg xl:text-[1.3rem] sm:text-lg xxs:text-base'>LOCATION</h3>
                                 </li>
                                 <li>
-                                    <address className='text-base sm:text-base xxs:text-sm'>Tamil Nadu</address>
+                                    <address className='text-base sm:text-base xxs:text-sm'>918 - D, RG Street, <br/>Coimbatore - 641 001</address>
                                 </li>
                             </ul>
                         </div>
@@ -53,10 +53,10 @@ const Footer = () => {
                                     <h3 className='text-lg xl:text-[1.3rem] sm:text-lg xxs:text-base'>CONTACT</h3>
                                 </li>
                                 <li>
-                                    <Link href='mailto:roreconstructions@gmail.com' className='text-base transition-all duration-500 ease-out hover:text-customBlue sm:text-base xxs:text-sm'>RoRe Constructions</Link>
+                                    <Link href='mailto:otdrivers23450@gmail.com' className='text-base transition-all duration-500 ease-out hover:text-customBlue sm:text-base xxs:text-sm'>otdrivers23450@gmail.com</Link>
                                 </li>
                                 <li>
-                                    <Link href='tel:301-768-0298' className='text-base transition-all duration-500 ease-out hover:text-customBlue sm:text-base xxs:text-sm'>8098 488884</Link>
+                                    <Link href='tel:301-768-0298' className='text-base transition-all duration-500 ease-out hover:text-customBlue sm:text-base xxs:text-sm'>81110 23450</Link>
                                 </li>
                             </ul>
                         </div>

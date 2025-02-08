@@ -78,7 +78,7 @@ const About = () => {
                 and enthusiasm for our ever-growing business.
 
                 <br /><br />
-                <CustomLink href='/contact' title='Contact us today' className='text-black font-bold transition-all duration-500 ease-out hover:text-customMustardYellow' /> or call us at <CustomLink href='tel:8098 488884' title='8098 488884' className='text-black font-bold transition-all duration-500 ease-out hover:text-customMustardYellow' />.
+                <CustomLink href='/contact' title='Contact us today' className='text-black font-bold transition-all duration-500 ease-out hover:text-customMustardYellow' /> or call us at <CustomLink href='tel:81110 23450' title='81110 23450' className='text-black font-bold transition-all duration-500 ease-out hover:text-customMustardYellow' />.
               </p>
 
             </div>
