@@ -5,7 +5,7 @@ import { Righteous } from 'next/font/google';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebookF, faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
 
-import Logo from '../../public/images/rore.png';
+import Logo from '../../public/images/otdrivers.jpg';
 import styles from '@/styles/Footer.module.css';
 
 const righteousFont = Righteous({
